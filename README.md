@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate with software organization.
 - 📫 Reach me on onlyrgpv123@gmail.com.
-- 😄 Pronouns: Nitin kumar.
 
 <!---
 Nitincodes02/Nitincodes02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
